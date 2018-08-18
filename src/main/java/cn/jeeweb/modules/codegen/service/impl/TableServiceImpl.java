@@ -42,7 +42,7 @@ import cn.jeeweb.modules.sys.service.IMenuService;
  * @title: TableService.java
  * @package cn.jeeweb.modules.codegen.service.impl
  * @description:
- * @author: 王存见
+ * @author: key
  * @date: 2017年5月8日 上午11:17:41
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

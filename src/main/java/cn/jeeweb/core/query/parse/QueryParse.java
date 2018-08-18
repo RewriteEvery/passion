@@ -6,7 +6,7 @@ import cn.jeeweb.core.query.data.Queryable;
 /**
  * 动态拼 where、group by having
  * 
- * @author 王存见
+ * @author key
  *
  * @param <T>
  */

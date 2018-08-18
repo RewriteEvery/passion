@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
  * @title: CookieUtils.java
  * @package cn.jeeweb.core.utils
  * @description: Cookie工具类
- * @author: 王存见
+ * @author: key
  * @date: 2017年5月11日 下午2:43:21
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

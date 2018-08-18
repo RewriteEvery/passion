@@ -13,7 +13,7 @@ import java.lang.String;
 /**
  * @Title 用户实体
  * @Description:
- * @author 王存见
+ * @author key
  * @date 2016-12-03 21:31:50
  * @version V1.0
  *

@@ -11,7 +11,7 @@ import cn.jeeweb.core.security.shiro.authz.annotation.RolesAllowed;
 /**
  * 拦截器
  * 
- * @author 王存见
+ * @author key
  *
  */
 public class RolesAllowedAnnotationHandler extends AuthorizingAnnotationHandler {

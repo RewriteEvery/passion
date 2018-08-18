@@ -7,7 +7,7 @@ import cn.jeeweb.core.base.BaseEntity;
 /**
  * 抽象实体基类
  * 
- * @author 王存见
+ * @author key
  *
  * 
  */

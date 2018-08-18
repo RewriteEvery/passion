@@ -19,7 +19,7 @@ import java.util.Map;
  * @title:  JsonMapUserType.java   
  * @package cn.jeeweb.core.repository.hibernate.type   
  * @description:     Json字符串---->Map  Map----->Json字符串 
- * @author: 王存见   
+ * @author: key   
  * @date:   2017年6月26日 下午6:07:26   
  * @version V1.0 
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved. 

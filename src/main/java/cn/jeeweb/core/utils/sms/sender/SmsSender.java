@@ -6,7 +6,7 @@ import cn.jeeweb.core.utils.sms.data.SmsTemplate;
 /**
  * 短信发射器
  * 
- * @author 王存见
+ * @author key
  *
  */
 public abstract class SmsSender {

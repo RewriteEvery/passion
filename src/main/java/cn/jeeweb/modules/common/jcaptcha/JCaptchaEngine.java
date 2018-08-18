@@ -24,7 +24,7 @@ import com.octo.captcha.image.gimpy.GimpyFactory;
  * @title: JCaptchaEngine.java
  * @package cn.jeeweb.modules.common.jcaptcha
  * @description: 生成验证码图片
- * @author: 王存见
+ * @author: key
  * @date: 2017年6月26日 下午6:02:46
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

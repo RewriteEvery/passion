@@ -55,7 +55,7 @@ public class LoginController extends BaseController {
 			// model.addAttribute("showCaptcha", "1");
 		}
 
-		return new ModelAndView("modules/sys/login/login");
+		return new ModelAndView("modules/sys/login/login2");
 	}
 
 	@RequestMapping("/logout")

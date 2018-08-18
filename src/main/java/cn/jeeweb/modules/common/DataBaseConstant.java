@@ -7,7 +7,7 @@ package cn.jeeweb.modules.common;
  * @title: DataBaseConstant.java
  * @package cn.jeeweb.modules.common
  * @description: 数据库上下文常量
- * @author: 王存见
+ * @author: key
  * @date: 2017年5月29日 下午9:55:00
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

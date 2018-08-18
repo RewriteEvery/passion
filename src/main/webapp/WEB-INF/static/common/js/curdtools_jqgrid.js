@@ -510,4 +510,39 @@ function detail(title,url, gridId,width,height) {
     openDialogView(title,url+"&id="+id,"800px", "500px","");
 }
 
-
+//不带任何参数的提示是否执行连接。
+ function normalConfirm(title,url,tipMsg){
+	  if(tipMsg==undefined||tipMsg==''){
+		  tipMsg="您确定要执行该操作！";
+	  }
+	   swal({
+         title: "提示",
+         text: tipMsg,
+         type: "warning",
+         showCancelButton: true,
+         confirmButtonColor: "#DD6B55",
+         confirmButtonText: "确定",
+         closeOnConfirm: false,
+         cancelButtonText: "取消",
+     }, function () {
+			$.ajax({
+				url : url,
+				type : 'post',
+				data : {
+				},
+				cache : false,
+				success : function(d) {
+					if (d.ret==0) {
+						var msg = d.msg;
+					    swal("提示！", msg, "success");
+					    //刷新表单
+			            refreshTable();
+					}else{
+						var msg = d.msg;
+					    swal("提示！", msg, "error");
+					}
+				}
+			});
+     });
+ }
+ 

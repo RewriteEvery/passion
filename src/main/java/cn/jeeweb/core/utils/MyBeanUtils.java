@@ -15,7 +15,7 @@ import com.alibaba.fastjson.JSONObject;
  * 
  * @ClassName: MyBeanUtils
  * @Description:实体拷贝
- * @author: 王存见
+ * @author: key
  * @date: 2017年3月1日 上午9:17:55
  * 
  *

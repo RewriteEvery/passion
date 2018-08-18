@@ -10,7 +10,7 @@ import cn.jeeweb.modules.sys.entity.User;
  * @title: IUserService.java
  * @package cn.jeeweb.modules.sys.service
  * @description: 用户
- * @author: 王存见
+ * @author: key
  * @date: 2017年7月11日 下午9:21:07
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

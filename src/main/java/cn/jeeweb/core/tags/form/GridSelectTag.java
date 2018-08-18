@@ -19,7 +19,7 @@ import cn.jeeweb.core.utils.StringUtils;
  * @title: GridSelectTag.java
  * @package cn.jeeweb.core.tags.form
  * @description: 表格选择
- * @author: 王存见
+ * @author: key
  * @date: 2017年6月17日 下午1:59:17
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

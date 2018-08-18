@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * 公共方法
  * 
- * @author 王存见
+ * @author key
  *
  */
 public class PublicUtil {

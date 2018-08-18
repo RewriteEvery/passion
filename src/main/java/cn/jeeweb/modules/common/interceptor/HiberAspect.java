@@ -15,7 +15,7 @@ import java.util.Date;
  * @title: Hiberate拦截器
  * @package cn.jeeweb.modules.common.interceptor
  * @description: 实现创建人，创建时间，创建人名称自动注入; 修改人,修改时间,修改人名自动注入;
- * @author: 王存见
+ * @author: key
  * @date: 2017年5月29日 下午9:56:35
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

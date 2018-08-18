@@ -14,7 +14,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
  * @title: DynamicDBDao.java
  * @package cn.jeeweb.core.database.dynamic.dao
  * @description: 多数据源到层
- * @author: 王存见
+ * @author: key
  * @date: 2017年5月10日 上午11:41:13
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

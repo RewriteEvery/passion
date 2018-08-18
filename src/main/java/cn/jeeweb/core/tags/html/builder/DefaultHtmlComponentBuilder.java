@@ -23,7 +23,7 @@ import cn.jeeweb.core.tags.html.exception.HtmlComponentException;
 import cn.jeeweb.core.tags.html.resolver.HtmlComponentDTDEntityResolver;
 
 /**
- * @author 王存见
+ * @author key
  * 
  */
 public class DefaultHtmlComponentBuilder implements HtmlComponentBuilder, ResourceLoaderAware {

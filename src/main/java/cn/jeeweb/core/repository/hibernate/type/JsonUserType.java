@@ -19,7 +19,7 @@ import java.sql.Types;
  * @title:  JsonUserType.java   
  * @package cn.jeeweb.core.repository.hibernate.type   
  * @description:  将对象 转换为Json字符串  
- * @author: 王存见   
+ * @author: key   
  * @date:   2017年6月26日 下午6:07:49   
  * @version V1.0 
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved. 

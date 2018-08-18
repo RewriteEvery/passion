@@ -23,7 +23,7 @@ import java.util.Properties;
  * @title:  HashMapToStringUserType.java   
  * @package cn.jeeweb.core.repository.hibernate.type   
  * @description:  将List转换为指定分隔符分隔的字符串存储 List的元素类型只支持常见的数据类型 可参考{@link org.apache.commons.beanutils.ConvertUtilsBean}
- * @author: 王存见   
+ * @author: key   
  * @date:   2017年6月26日 下午6:06:17   
  * @version V1.0 
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved. 

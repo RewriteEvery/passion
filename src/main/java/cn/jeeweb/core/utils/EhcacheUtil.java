@@ -7,7 +7,7 @@ import net.sf.ehcache.Element;
 /**
  * 缓存基础类
  * 
- * @author 王存见
+ * @author key
  * @version 2017-01-19
  */
 public class EhcacheUtil extends ObjectSwitchHelper {

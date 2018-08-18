@@ -13,7 +13,7 @@ import cn.jeeweb.modules.sys.service.IUserService;
 /**
  * @Title: 重复验证
  * @Description: 重复验证
- * @author 王存见
+ * @author key
  * @date 2017-02-23 22:27:30
  * @version V1.0
  */

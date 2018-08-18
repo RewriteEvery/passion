@@ -12,7 +12,7 @@ import cn.jeeweb.core.utils.StringUtils;
  * @title: SysFunctions.java
  * @package cn.jeeweb.modules.sys.tags
  * @description: 提供一些公用的函数
- * @author: 王存见
+ * @author: key
  * @date: 2017年3月28日 下午10:04:07
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

@@ -23,7 +23,7 @@ import cn.jeeweb.core.utils.StringUtils;
 
 /**
  * 
- * @author 王存见
+ * @author key
  *
  */
 public class HuyiRestSDK {

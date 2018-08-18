@@ -14,7 +14,7 @@ import cn.jeeweb.modules.sys.entity.User;
  * @title: ObjectUtils.java
  * @package cn.jeeweb.core.utils
  * @description: 对象工具类
- * @author: 王存见
+ * @author: key
  * @date: 2017年5月7日 下午10:57:53
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

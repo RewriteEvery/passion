@@ -15,7 +15,7 @@ import cn.jeeweb.core.utils.StringUtils;
 /**
  * 树抽象实体基类
  * 
- * @author 王存见
+ * @author key
  *
  * 
  */

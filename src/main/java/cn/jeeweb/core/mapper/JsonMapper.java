@@ -34,7 +34,7 @@ import com.google.common.collect.Maps;
  * @package cn.jeeweb.core.mapper
  * @description: 简单封装Jackson，实现JSON String<->Java Object的Mapper.
  *               封装不同的输出风格,使用不同的builder函数创建实例.
- * @author: 王存见
+ * @author: key
  * @date: 2017年7月7日 下午2:01:31
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

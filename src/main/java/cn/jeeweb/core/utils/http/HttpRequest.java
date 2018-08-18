@@ -14,7 +14,7 @@ import cn.jeeweb.core.utils.StringUtils;
 /**
  * HTTP网络请求
  * 
- * @author 王存见
+ * @author key
  *
  */
 public class HttpRequest {

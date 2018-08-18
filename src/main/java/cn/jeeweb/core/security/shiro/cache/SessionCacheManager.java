@@ -27,7 +27,7 @@ import cn.jeeweb.core.utils.ServletUtils;
 /**
  * 缓存
  * 
- * @author 王存见
+ * @author key
  * @version 2017-02-23
  */
 public class SessionCacheManager implements CacheManager {

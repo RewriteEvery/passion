@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 基础实体类
  * 
- * @author 王存见
+ * @author key
  * @version 2016-12-03
  */
 

@@ -12,7 +12,7 @@ import cn.jeeweb.core.utils.sms.data.SmsResult;
  * @title: SmsDao.java
  * @package cn.jeeweb.core.disruptor.sms
  * @description: 短信dao
- * @author: 王存见
+ * @author: key
  * @date: 2017年6月8日 上午8:42:47
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

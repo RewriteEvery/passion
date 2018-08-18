@@ -18,7 +18,7 @@ import cn.jeeweb.core.security.shiro.authz.annotation.RolesAllowed;
 /**
  * 权限注解处理器
  * 
- * @author 王存见
+ * @author key
  *
  */
 @SuppressWarnings({ "unchecked", "serial" })

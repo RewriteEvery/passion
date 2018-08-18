@@ -20,7 +20,7 @@ import cn.jeeweb.modules.sms.service.ISmsTemplateService;
  * @title: SmsDaoIml.java
  * @package cn.jeeweb.modules.sms.dao
  * @description: 短信信息返回
- * @author: 王存见
+ * @author: key
  * @date: 2017年6月8日 上午11:20:04
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

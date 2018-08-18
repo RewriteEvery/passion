@@ -15,7 +15,7 @@ import cn.jeeweb.core.utils.sms.sender.cloopen.CCPRestSDK;
 /**
  * 云通讯短信发送
  * 
- * @author 王存见
+ * @author key
  *
  */
 @SuppressWarnings("unchecked")

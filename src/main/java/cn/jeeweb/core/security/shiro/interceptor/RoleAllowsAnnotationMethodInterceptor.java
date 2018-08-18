@@ -6,7 +6,7 @@ import org.apache.shiro.authz.aop.AuthorizingAnnotationMethodInterceptor;
 /**
  * 注册注解拦截器
  * 
- * @author 王存见
+ * @author key
  *
  */
 public class RoleAllowsAnnotationMethodInterceptor extends AuthorizingAnnotationMethodInterceptor {

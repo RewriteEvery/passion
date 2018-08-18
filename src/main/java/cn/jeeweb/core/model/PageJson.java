@@ -8,7 +8,7 @@ import cn.jeeweb.core.query.data.Page;
 /**
  * 页面展示分页
  * 
- * @author 王存见
+ * @author key
  *
  * @param <T>
  */

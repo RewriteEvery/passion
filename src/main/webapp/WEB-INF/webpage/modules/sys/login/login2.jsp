@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><spring:message code="sys.site.title" arguments="${platformName}"/></title>
+  <%--   <title><spring:message code="sys.site.title" arguments="${platformName}"/></title> --%>
     <meta name="keywords" content="<spring:message code="sys.site.keywords" arguments="${platformName}"/>">
     <meta name="description" content="<spring:message code="sys.site.description" arguments="${platformName}"/>">
     
@@ -20,7 +20,8 @@
 <div class="middle-box text-center loginscreen  animated fadeInDown">
         <div class="col-lg-12">
             <div>
-                <div class="logo-name">${platformName}</div>
+                <%-- <div class="logo-name">${platformName}</div> --%>
+                 <img src="${staticPath}/modules/img/passion1.png" width="100%" style="max-width:264px;">
             </div>
             <h3>欢迎使用 ${platformName}</h3>
            <form  id="loginform"  method="post" class="form-horizontal login-form" action=""  

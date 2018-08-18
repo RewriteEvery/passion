@@ -26,7 +26,7 @@ import cn.jeeweb.core.utils.StringUtils;
 /**
  * 自定义WEB会话管理类
  * 
- * @author 王存见
+ * @author key
  * @version 2017-02-23
  */
 public class SessionManager extends DefaultWebSessionManager {

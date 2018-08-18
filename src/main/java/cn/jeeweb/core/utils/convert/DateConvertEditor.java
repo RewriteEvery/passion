@@ -7,7 +7,7 @@ import cn.jeeweb.core.utils.DateUtils;
 /**
  * 时间处理类
  * 
- * @author 王存见
+ * @author key
  * @date 2016-12-21
  * @version V 1.0
  */

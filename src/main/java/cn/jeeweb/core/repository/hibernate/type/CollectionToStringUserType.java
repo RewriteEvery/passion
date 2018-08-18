@@ -21,7 +21,7 @@ import java.util.Properties;
  * @title:  CollectionToStringUserType.java   
  * @package cn.jeeweb.core.repository.hibernate.type   
  * @description:   将List转换为指定分隔符分隔的字符串存储 List的元素类型只支持常见的数据类型 可参考 
- * @author: 王存见   
+ * @author: key   
  * @date:   2017年6月26日 下午6:05:51   
  * @version V1.0 
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved. 

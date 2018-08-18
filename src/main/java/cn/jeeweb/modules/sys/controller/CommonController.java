@@ -13,7 +13,7 @@ import cn.jeeweb.core.utils.StringUtils;
 /**
  * @Title:
  * @Description: 公用控制器
- * @author 王存见
+ * @author key
  * @date 2017-02-08 22:27:30
  * @version V1.0
  */

@@ -10,7 +10,7 @@ import cn.jeeweb.core.utils.sms.exception.NullException;
  * @title: SmsUtils.java
  * @package cn.jeeweb.core.utils.sms
  * @description: 短信发送工具测试类
- * @author: 王存见
+ * @author: key
  * @date: 2017年6月7日 下午11:11:00
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

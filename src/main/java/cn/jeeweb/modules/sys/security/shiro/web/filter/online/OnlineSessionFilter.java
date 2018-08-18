@@ -23,7 +23,7 @@ import java.io.IOException;
  * @title:  OnlineSessionFilter.java   
  * @package cn.jeeweb.modules.sys.security.shiro.web.filter.online   
  * @description:   在线
- * @author: 王存见   
+ * @author: key   
  * @date:   2017年6月26日 下午5:55:19   
  * @version V1.0 
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved. 

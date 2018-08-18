@@ -16,7 +16,7 @@ import cn.jeeweb.modules.sys.service.IDictService;
 /**
  * 字典工具类
  * 
- * @author 王存见
+ * @author key
  * @version 2017-02-09
  */
 @SuppressWarnings("unchecked")

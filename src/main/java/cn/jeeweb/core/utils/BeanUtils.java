@@ -8,7 +8,7 @@ import java.util.Date;
  * 
  * @ClassName: BeanUtils
  * @Description:Bean操作类 http://blog.csdn.net/calvinxiu/article/details/277748
- * @author: 王存见
+ * @author: key
  * @date: 2017年3月1日 上午8:50:31
  * 
  * @Copyright: 2017 www.jeeweb Inc. All rights reserved.

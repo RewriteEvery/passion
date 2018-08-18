@@ -17,7 +17,7 @@ import java.sql.Types;
  * @title:  ObjectSerializeUserType.java   
  * @package cn.jeeweb.core.repository.hibernate.type   
  * @description:   Object序列化/反序列化 数据库中以hex字符串存储   
- * @author: 王存见   
+ * @author: key   
  * @date:   2017年6月26日 下午6:08:24   
  * @version V1.0 
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved. 

@@ -27,7 +27,7 @@ import cn.jeeweb.core.common.hibernate.dynamic.utils.Utils;
 import cn.jeeweb.core.utils.EhcacheUtil;
 
 /**
- * @author 王存见
+ * @author key
  * 
  */
 public class DefaultDynamicHibernateStatementBuilder implements DynamicHibernateStatementBuilder, ResourceLoaderAware {

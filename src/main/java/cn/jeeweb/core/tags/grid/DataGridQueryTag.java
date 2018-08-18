@@ -19,7 +19,7 @@ import cn.jeeweb.modules.sys.utils.DictUtils;
  * @Title: DataGridColumnTag.java
  * @Package cn.jeeweb.core.tags.grid
  * @Description: 查询
- * @author: 王存见
+ * @author: key
  * @date: 2017年3月4日 下午9:03:39
  * @version V1.0
  * @Copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

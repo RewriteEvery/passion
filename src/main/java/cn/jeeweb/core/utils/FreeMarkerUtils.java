@@ -25,7 +25,7 @@ import freemarker.template.TemplateException;
  * @Title: FreeMarkerUtils.java
  * @Package cn.jeeweb.core.utils
  * @Description: FreeMarker模版工具
- * @author: 王存见
+ * @author: key
  * @date: 2017年3月4日 下午4:32:52
  * @version V1.0
  * @Copyright: 2017 www.jeeweb.cn Inc. All rights reserved.
@@ -226,7 +226,7 @@ public class FreeMarkerUtils {
 
 	public static void main(String[] args) {
 		Map<String, Object> root = new HashMap<String, Object>();
-		root.put("name", "王存见");
+		root.put("name", "key");
 		FreeMarkerUtils.initByDefaultTemplate().processConsole("test.flt", root);
 	}
 }

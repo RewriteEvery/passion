@@ -16,7 +16,7 @@ import cn.jeeweb.modules.sys.entity.User;
 /**
  * 数据Entity类
  * 
- * @author 王存见
+ * @author key
  * @version 2016-12-03
  * @param <ID>
  *            主键类型

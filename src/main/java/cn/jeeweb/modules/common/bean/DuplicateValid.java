@@ -3,7 +3,7 @@ package cn.jeeweb.modules.common.bean;
 /**
  * 重复验证
  * 
- * @author 王存见
+ * @author key
  *
  */
 @SuppressWarnings("serial")

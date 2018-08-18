@@ -3,7 +3,7 @@ package cn.jeeweb.core.utils;
 /**
  * 加载基础
  * 
- * @author 王存见
+ * @author key
  *
  */
 public abstract class ObjectSwitchHelper {

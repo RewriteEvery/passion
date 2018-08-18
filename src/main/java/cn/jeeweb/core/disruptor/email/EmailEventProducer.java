@@ -12,7 +12,7 @@ import cn.jeeweb.core.utils.StringUtils;
  * @title: LongEventProducer.java
  * @package cn.jeeweb.core.disruptor.sms
  * @description: 内容生产者
- * @author: 王存见
+ * @author: key
  * @date: 2017年6月7日 下午11:19:15
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

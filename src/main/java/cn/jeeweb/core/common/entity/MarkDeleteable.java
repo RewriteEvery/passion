@@ -3,7 +3,7 @@ package cn.jeeweb.core.common.entity;
 /**
  * 为了简化开发 约定删除标识列名为delflag，
  * 
- * @author 王存见
+ * @author key
  *
  */
 public interface MarkDeleteable {

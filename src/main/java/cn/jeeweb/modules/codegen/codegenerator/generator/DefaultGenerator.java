@@ -16,7 +16,7 @@ import cn.jeeweb.modules.codegen.codegenerator.exception.GenerationException;
  * @title: DefaultGenerator.java
  * @package cn.jeeweb.modules.codegen.codegenerator.generator
  * @description: 默认代码生成器
- * @author: 王存见
+ * @author: key
  * @date: 2017年4月24日 下午1:05:58
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

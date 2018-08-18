@@ -13,7 +13,7 @@ import cn.jeeweb.core.utils.sms.sender.huyi.HuyiRestSDK;
 /**
  * 互亿无线
  * 
- * @author 王存见
+ * @author key
  *
  */
 public class HuyiSmsSender extends SmsSender {

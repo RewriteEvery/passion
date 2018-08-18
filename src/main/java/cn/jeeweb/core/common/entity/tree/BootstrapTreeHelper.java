@@ -8,7 +8,7 @@ import cn.jeeweb.core.utils.ObjectUtils;
 /**
  * 树排序
  * 
- * @author 王存见
+ * @author key
  *
  */
 public class BootstrapTreeHelper<ID extends Serializable> implements Serializable {

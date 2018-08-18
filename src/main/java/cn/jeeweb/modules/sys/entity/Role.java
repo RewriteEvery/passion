@@ -13,7 +13,7 @@ import cn.jeeweb.core.common.entity.DataEntity;
 /**
  * @Title: 角色实体
  * @Description: 角色实体
- * @author 王存见
+ * @author key
  * @date 2016-12-03 21:33:15
  * @version V1.0
  *

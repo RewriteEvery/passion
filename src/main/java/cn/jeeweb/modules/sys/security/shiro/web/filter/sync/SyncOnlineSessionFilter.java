@@ -21,7 +21,7 @@ import javax.servlet.ServletResponse;
  * @title: SyncOnlineSessionFilter.java
  * @package cn.jeeweb.modules.sys.security.shiro.web.filter.sync
  * @description: 同步当前会话数据到数据库
- * @author: 王存见
+ * @author: key
  * @date: 2017年6月26日 下午5:54:52
  * @version V1.0
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved.

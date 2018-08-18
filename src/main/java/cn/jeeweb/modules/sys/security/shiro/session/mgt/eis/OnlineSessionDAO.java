@@ -20,7 +20,7 @@ import java.util.Date;
  * @title:  OnlineSessionDAO.java   
  * @package cn.jeeweb.modules.sys.security.shiro.session.mgt.eis   
  * @description:    对于db的操作 考虑使用 异步+队列机制
- * @author: 王存见   
+ * @author: key   
  * @date:   2017年6月26日 下午5:58:29   
  * @version V1.0 
  * @copyright: 2017 www.jeeweb.cn Inc. All rights reserved. 

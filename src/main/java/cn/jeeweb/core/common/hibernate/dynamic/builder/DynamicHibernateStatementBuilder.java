@@ -5,7 +5,7 @@ import java.io.IOException;
 /**
  * 动态sql/hql语句组装器
  * 
- * @author 王存见
+ * @author key
  * 
  */
 public interface DynamicHibernateStatementBuilder {
